@@ -1,0 +1,10 @@
+[package]
+name = "mapgeneration"
+version = "0.1.0"
+authors = ["Pierre-André Gagnon <pagagnon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32"
+rand = "0.6"
+rs-perlinnoise = { git = "https://github.com/pag4k/rs-perlinnoise", version = "0.1.4" }
