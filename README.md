@@ -1,5 +1,5 @@
 # mapgeneration
-Simple height Map generation using Perlin Noise.
+Simple height map generation using Perlin Noise.
 
 ## Examples
 ![Screenshot 1](/screenshots/Example1.png?raw=true "Example 1")
@@ -10,7 +10,7 @@ Simple height Map generation using Perlin Noise.
 
 ## Todo
 - Add option set terrain parameters in text file.
-- Add runtime option to adjust generation parameters.
+- Add runtime options to adjust generation parameters.
 
 ## Authors
 
