@@ -1,6 +1,6 @@
 [package]
 name = "mapgeneration"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Pierre-André Gagnon <pagagnon@gmail.com>"]
 edition = "2018"
 
@@ -8,3 +8,6 @@ edition = "2018"
 sdl2 = "0.32"
 rand = "0.6"
 rs-perlinnoise = { git = "https://github.com/pag4k/rs-perlinnoise", version = "0.1.4" }
+serde = "1.0.82"
+serde_json = "1.0.33"
+serde_derive = "1.0.82"
